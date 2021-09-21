@@ -19,15 +19,15 @@ let scene = new ScrollMagic.Scene({
   .addTo(controller);
 
 //Text Animation
-const textAnim = TweenMax.fromTo(text, 3, { opacity: 1 }, { opacity: 0 });
+//const textAnim = TweenMax.fromTo(text, 3, { opacity: 1 }, { opacity: 0 });
 
-let scene2 = new ScrollMagic.Scene({
-  duration: 3000,
-  triggerElement: intro,
-  triggerHook: 0
-})
-  .setTween(textAnim)
-  .addTo(controller);
+//let scene2 = new ScrollMagic.Scene({
+//  duration: 3000,
+//  triggerElement: intro,
+//  triggerHook: 0
+//})
+//  .setTween(textAnim)
+//  .addTo(controller);
 
 //Video Animation
 let accelamount = .3;
@@ -43,4 +43,4 @@ setInterval(() => {
   console.log(scrollpos, delay);
 
   video.currentTime = delay;
-}, 33.3);
+}, 41.6);
