@@ -30,7 +30,7 @@ let scene = new ScrollMagic.Scene({
 //  .addTo(controller);
 
 //Video Animation
-let accelamount = .6;
+let accelamount = .1;
 let scrollpos = 0;
 let delay = 0;
 
