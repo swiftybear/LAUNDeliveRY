@@ -14,7 +14,7 @@ let scene = new ScrollMagic.Scene({
   triggerElement: intro,
   triggerHook: 0
 })
-//  .addIndicators() //remove to remove indicators
+ .addIndicators() //remove to remove indicators
   .setPin(intro)
   .addTo(controller);
 
