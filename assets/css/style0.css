@@ -103,9 +103,11 @@ height:100vh;
 #header {
   height: 80px;
   transition: all 0.5s;
+  z-index: 997;
   transition: all 0.5s;
   padding: 16px 0;
-  z-index: 99998;
+  padding-top: 20px;
+  background: #000000;
   position: fixed;
   width: 100%;
 }
