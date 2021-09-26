@@ -10,7 +10,11 @@ MVP: WEB-BASED APPLICATION FOR AUTOMATIC LAUNDRY DELIVERY SYSTEM
 [re-MVP: A website that provides quality information for both laundry shop customers and owners that leverage services with the use of technology.]
 UVP: EMPLOYS OSY PARTNERS, SUPPORTS SMALL LOCAL LAUNDRY SHOPS
 
+Website Link: https://swiftybear.github.io/LAUNDeliveRY/index.html
+Repository Link: https://swiftybear.github.io/LAUNDeliveRY/index.html
+Terms and conditions: https://docs.google.com/document/d/1hQ94eYATw2tDSbVFy9o1Y8Epve5AlCMP9o2Q1Zh06do/edit
 
+![stuff](https://cdn.shopify.com/s/files/1/0264/9063/4337/files/PAW_GTG_FW20_F_Chase_001_flop_CGI_x1500.png?v=1592931209)
 
 
 
