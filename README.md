@@ -16,7 +16,6 @@ Terms and conditions: https://docs.google.com/document/d/1hQ94eYATw2tDSbVFy9o1Y8
 
 ![LAUNDeliveRY Logo](https://github.com/swiftybear/LAUNDeliveRY/blob/main/assets/img/hero-img.png)
 
-![stuff](https://cdn.shopify.com/s/files/1/0264/9063/4337/files/PAW_GTG_FW20_F_Chase_001_flop_CGI_x1500.png?v=1592931209)
-
+<img src="htttps://cdn.shopify.com/s/files/1/0264/9063/4337/files/PAW_GTG_FW20_F_Chase_001_flop_CGI_x1500.png?v=1592931209" width="48">
 
 
