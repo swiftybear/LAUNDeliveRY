@@ -1,6 +1,6 @@
 # LAUNDeliveRY
 
-And once again, the incomparable, optimized, ultimate processing algorithm that ever exist (marlous brain), creates a new website entitled
+
 ![LAUNDeliveRY Logo](https://github.com/swiftybear/LAUNDeliveRY/blob/main/assets/img/Logov1.png)
 to cater the needs of both small local laundry shops in streamlining their business and to the customers alike. It was hypothesized that there is an increased health risk for vulnerable individuals to have physical community engagements such as doing their laundry services amidst the ongoing pandemic crisis.
 
