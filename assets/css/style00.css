@@ -5,6 +5,17 @@
 * License: https://bootstrapmade.com/license/
 https://www.youtube.com/watch?v=h-U1qtbRbiw&t=303s snow effect achieved 4 1 2020
 */
+.clients .client-logo11 {
+  display: flex;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width:160px;
+}
+.clients .client-logo11:hover img {
+  transform: scale(1.40);
+}
 .alertzz {
   padding: 3px;
   background-color: #ff9900;

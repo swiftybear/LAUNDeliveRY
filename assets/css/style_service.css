@@ -4,16 +4,11 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-.clients .client-logo11 {
-  display: flex;
-  padding: 5px;
-  justify-content: center;
-  align-items: center;
-  height: 120px;
-  width:160px;
+.table > tbody > tr > td {
+     vertical-align: middle;
 }
-.clients .client-logo11:hover img {
-  transform: scale(1.40);
+.table > thead > tr {
+     vertical-align: middle;
 }
 .alertzz {
   padding: 3px;
@@ -48,8 +43,8 @@ width: 100%;
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #ffffff;
-  background-color: #6b6b6b;
+  color: #444444;
+
 }
 
 a {
@@ -78,6 +73,7 @@ background: #000000;
   width: 100%;
 height:100vh;
 }
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -118,7 +114,7 @@ height:100vh;
   transition: all 0.5s;
   padding: 16px 0;
   padding-top: 20px;
-  background: #000000;
+  background: #213b52;
   position: fixed;
   width: 100%;
 }
@@ -126,7 +122,7 @@ height:100vh;
 #header .logo h1 {
   font-size: 24px;
   margin: 0;
-  padding: 10px 0;
+  padding: 16px 0;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 3px;
@@ -185,7 +181,7 @@ height:100vh;
 }
 
 .nav-menu .get-started a {
-  background: #404040;
+  background: #213b52;
   color: #fff;
   border-radius: 50px;
   margin: 2px 0 0 15px;
@@ -195,7 +191,7 @@ height:100vh;
 
 .nav-menu .get-started a:hover {
   background: #fdc134;
-  color: #404040;
+  color: #213b52;
 }
 
 .nav-menu .drop-down ul {
@@ -303,7 +299,7 @@ height:100vh;
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #6b6b6b;
+  background: #fff;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -320,7 +316,7 @@ height:100vh;
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #213b52;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -358,7 +354,7 @@ height:100vh;
 }
 
 .mobile-nav .get-started a {
-  background: #404040;
+  background: #213b52;
   color: #fff;
   border-radius: 50px;
   margin: 15px;
@@ -368,7 +364,7 @@ height:100vh;
 
 .mobile-nav .get-started a:hover {
   background: #fdc134;
-  color: #404040;
+  color: #213b52;
 }
 
 .mobile-nav-overly {
@@ -403,8 +399,10 @@ height:100vh;
 #hero {
   width: 100%;
   padding: 0 0 0 0;
-  background: #404040;
-  background: linear-gradient(180deg, #404040 0%, #404040 35%, #404040 100%);
+  padding-top: 100px;
+  background: #213b52;
+  background: linear-gradient(180deg, #213b52 0%, #213c54 35%, #204564 100%);
+
 }
 
 #hero h1 {
@@ -423,7 +421,7 @@ height:100vh;
 }
 
 #hero .btn-get-started {
-  color: #404040;
+  color: #213b52;
   border-radius: 50px;
   padding: 8px 35px 10px 35px;
   border: 2px solid #fdc134;
@@ -480,7 +478,7 @@ section {
 }
 
 .section-bg {
-  background: linear-gradient(180deg, #000000 0%, #000000 100%);
+  background: linear-gradient(180deg, #f2f6fa 0%, #fff 100%);
 }
 
 .section-title {
@@ -496,7 +494,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   font-family: "Poppins", sans-serif;
-  color: #ffffff;
+  color: #213b52;
 }
 
 .section-title h2::before {
@@ -516,7 +514,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #ffffff;
+  background: #fdc134;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -530,7 +528,6 @@ section {
 --------------------------------------------------------------*/
 .clients {
   padding: 0;
-  background-color: black;
 }
 
 .xnxx {
@@ -594,7 +591,7 @@ margin-right: 30px;
 .about .content h3 {
   font-weight: 700;
   font-size: 34px;
-  color: #ffffff;
+  color: #213b52;
 }
 
 .about .content p {
@@ -609,16 +606,16 @@ margin-right: 30px;
   font-size: 20px;
   font-weight: 700;
   margin: 5px 0 10px 60px;
-  color: #ffffff;
+  color: #213b52;
 }
 
 .about .content .icon-box h4 a {
-  color: #ffffff;
+  color: #213b52;
   transition: 0.3s;
 }
 
 .about .content .icon-box h4 a:hover {
-  color: #ffffff;
+  color: #fdc134;
 }
 
 .about .content .icon-box i {
@@ -629,7 +626,7 @@ margin-right: 30px;
 
 .about .content .icon-box p {
   font-size: 15px;
-  color: #ffffff;
+  color: #848484;
   margin-left: 60px;
 }
 
@@ -690,7 +687,7 @@ margin-right: 30px;
 }
 
 .services .card-title a {
-  color: #404040;
+  color: #213b52;
   transition: 0.3s;
 }
 
@@ -732,7 +729,7 @@ margin-right: 30px;
 .features .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #404040;
+  color: #213b52;
 }
 
 .features .content ul {
@@ -898,7 +895,7 @@ margin-right: 30px;
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
-  color: #ffffff;
+  color: #213b52;
 }
 
 .team .member span {
@@ -1007,7 +1004,7 @@ margin-right: 30px;
 }
 
 .pricing .get-started-btn {
-  background: #404040;
+  background: #213b52;
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
