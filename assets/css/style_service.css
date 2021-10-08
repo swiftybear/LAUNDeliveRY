@@ -4,6 +4,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+
+
 .table > tbody > tr > td {
      vertical-align: middle;
 }
@@ -45,6 +48,13 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 
+
+  background-image: url("MC1.png");
+  background-position: left bottom; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background-size: 700px 500px;
+  background-attachment: fixed;
 }
 
 a {
