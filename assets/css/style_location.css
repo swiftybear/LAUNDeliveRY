@@ -49,7 +49,11 @@ width: 100%;
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
-
+  background-image: url("MC1.png");
+  background-position: left; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+    background-size: 900px 700px;
 }
 
 a {
