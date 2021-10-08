@@ -38,7 +38,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/quickwashlaundrylounge">  <img src="assets/img/clients/C1.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td> <center><h6>Store hours: 7:00am-5:00pm</h6> <a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/quickwashlaundrylounge" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -59,7 +59,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/Mr-B-Laundry-Shop-106635647986163">  <img src="assets/img/clients/C2.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 7:00am-7:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/Mr-B-Laundry-Shop-106635647986163" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -80,7 +80,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/familylaundryshopiligan">  <img src="assets/img/clients/C3.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 8:00am-8:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/familylaundryshopiligan" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -101,7 +101,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/LavanderoPH">  <img src="assets/img/clients/C4.png" alt="" style="height:60px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 7:00am-9:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/LavanderoPH" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -122,7 +122,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/twinslaundryiligan">  <img src="assets/img/clients/C5.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 7:00am-7:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/twinslaundryiligan" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -143,7 +143,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/Lavatronic-Laundry-Lounge-184784342276507">  <img src="assets/img/clients/C6.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 24/7 open</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/Lavatronic-Laundry-Lounge-184784342276507" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -164,7 +164,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/robinslaundryroom">  <img src="assets/img/clients/C7.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 7:00am-9:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/robinslaundryroom" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -185,7 +185,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/washandfoldlaundryhub/">  <img src="assets/img/clients/C8.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 6:00am-8:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/washandfoldlaundryhub/" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -206,7 +206,7 @@ function initMap() {
         '<tbody>' +
         '<tr data-aos="fade-left" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/iliganexpresslaundry">  <img src="assets/img/clients/C9.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 7:00am-5:00pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/iliganexpresslaundry" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
@@ -225,9 +225,9 @@ function initMap() {
     '<div class="table-responsive">' +
           '<table class="table table-borderless">' +
         '<tbody>' +
-        '<tr data-aos="fade-left" data-aos-delay="100">' +
+        '<tr data-aos="fade-up" data-aos-delay="100">' +
       '<th scope="row"><center><a href="https://www.facebook.com/Tia-Lavandera-312268072711958/">  <img src="assets/img/clients/C10.png" alt="" style="height:110px;width:110px;"> </th>' +
-      '<td><center><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
+      '<td><center><h6>Store hours: 7:30am-7:30pm</h6><a class="btn btn-info" href="service.html" role="button" style="margin-top:10px;">View prices</a></center> </td>' +
       '<td><center><a class="btn btn-info btn-sm" href="oof.html" role="button" style="margin-top:10px;">Visit Shop</a></center>' +
       '<center><a class="btn btn-primary btn-sm" href="https://www.facebook.com/Tia-Lavandera-312268072711958/" role="button" style="margin-top:10px;"><i class="icofont-facebook"></i><small>Visit FB page</small></a></center> </td>' +
       '<tr>' +
